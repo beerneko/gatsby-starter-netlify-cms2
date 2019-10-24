@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Yuri's 100 Dollar Web
+image: /img/torii.jpg
+heading: Yuri's 100 Dollar Web
+subheading: Your original website starts from only 100 Dollar for everything!
 mainpitch:
   title: Why Kaldi
   description: >
