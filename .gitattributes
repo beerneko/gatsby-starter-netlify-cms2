@@ -1,2 +1,0 @@
-torii.jpg filter=lfs diff=lfs merge=lfs -text
-black_kimono.jpg filter=lfs diff=lfs merge=lfs -text
