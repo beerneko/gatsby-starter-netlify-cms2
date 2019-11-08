@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Yuri's 100 Dollar Web
-image: /img/home-jumbotron.jpg
+image: /img/gyosen.jpg
 heading: Yuri's 100 Dollar Web
 subheading: Your original website starts from only 100 Dollar for everything!
 mainpitch:
