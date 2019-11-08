@@ -1,36 +1,26 @@
 ---
 templateKey: index-page
-title: Yuri's 100 Dollar Web
-image: /img/gyosen.jpg
-heading: Yuri's 100 Dollar Web
+title: BEER NEKO 100 Dollar Web
+image: /img/top_worker.jpg
+heading: Those are the ones what BEER NEKO can do with 100 Dollar!
 subheading: Your original website starts from only 100 Dollar for everything!
 mainpitch:
-  title: Why Kaldi
+  title: Why BEERNEKO
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Hire BEERNEKO in a hour for today or only for a week!
+    BEERNEKO is a Web Designer / ZEND Certified PHP Engineer / Microsoft Certified Solutions Associate(MCSA) for everyone and every business who needs a little help in the Dark... Dark... IT field. It starts from resonable price $50/hour! 
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  If you want one page Website for your baseball team, ask BEERNEKO. 
+  BEERNEKO makes $100 one page website. 
+  As long as you are fine by Netlify domain name, it's ONLY $100 for all!
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/coffee1.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+        BEERNEKO makes your Website from 100 Doller.
+    - image: /img/coffee-gear1.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        BEERNEKO Fix your computer.
     - image: /img/tutorials.png
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
