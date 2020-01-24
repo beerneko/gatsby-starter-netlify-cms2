@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: BEER NEKO 100 Dollar Web
+title: BEER NEKO Web
 image: /img/top_worker.jpg
 heading: Those are the ones what BEER NEKO can do with 100 Dollar!
 subheading: Your original website starts from only 100 Dollar for everything!
@@ -21,14 +21,11 @@ intro:
     - image: /img/coffee-gear1.png
       text: >
         BEERNEKO Fix your computer.
-    - image: /img/tutorials.png
+    - image: /img/tutorials1.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
+        BEERNEKO can teach you computer programmings and Japanese language. 
+        Provide you a shoulder-to-shoulder tutoring via E-mail and Skype.
+    - image: /img/meeting-space1.png
       text: >
         We believe that good coffee has the power to bring people together.
         That’s why we decided to turn a corner of our shop into a cozy meeting
