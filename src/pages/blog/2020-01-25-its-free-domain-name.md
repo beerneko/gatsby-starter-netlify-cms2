@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: It's free domain name!
+title: It's a simple free website!
 date: 2020-01-25T20:10:21.192Z
 description: >-
   Do you really care that you use your own unique domain name only? Can't you
