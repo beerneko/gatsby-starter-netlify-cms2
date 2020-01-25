@@ -1,18 +1,17 @@
 ---
 templateKey: index-page
-title: BEER NEKO Web
+title: Hire BEER NEKO...
 image: /img/top_worker.jpg
-heading: Those are the ones what BEER NEKO can do with 100 Dollar!
-subheading: Your original website starts from only 100 Dollar for everything!
+heading: Those are the ones what BEER NEKO can do
+subheading: ・Computer Tech ・Programmer ・Instructor ・Japanese Teacher
 mainpitch:
   title: Why BEERNEKO
   description: >
-    Hire BEERNEKO in a hour for today or only for a week!
-    BEERNEKO is a Web Designer / ZEND Certified PHP Engineer / Microsoft Certified Solutions Associate(MCSA) for everyone and every business who needs a little help in the Dark... Dark... IT field. It starts from resonable price $50/hour! 
+    Hire BEERNEKO in an hour for today or tempo-worker or remote for a week!
+    BEERNEKO is a Web Designer / ZEND Certified PHP Engineer / Microsoft Certified Solutions Associate(MCSA) for everyone and every business who needs a little help in the Dark... Dark... IT field... It starts at a reasonable price of $50/hour! 
 description: >-
-  If you want one page Website for your baseball team, ask BEERNEKO. 
-  BEERNEKO makes $100 one page website. 
-  As long as you are fine by Netlify domain name, it's ONLY $100 for all!
+  Currently, BEERNEKO is looking for any job opportunity. BEERNEKO was a former state IT worker, a Japanese School teacher and a freelance Word press web designer, and an e-Commerce coder and the site owner.
+  If you want a one-page Website for your baseball team, ask BEERNEKO. BEERNEKO will make it starts from $100. If you are a business owner and need a temp IT person, please ask BEERNEKO who can right fit in!
 intro:
   blurbs:
     - image: /img/coffee1.png
@@ -23,24 +22,23 @@ intro:
         BEERNEKO Fix your computer.
     - image: /img/tutorials1.png
       text: >
-        BEERNEKO can teach you computer programmings and Japanese language. 
+        BEERNEKO can teach you computer programming and Japanese language. 
         Provide you a shoulder-to-shoulder tutoring via E-mail and Skype.
     - image: /img/meeting-space1.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        BEERNEKO is Web Designer / 
+        ZEND Certified PHP Engineer / 
+        Microsoft Certified Solutions Associate(MCSA) for 2016 SQL server Development, 
+        and MCP for VB.NET in 2006.
   heading: What we offer
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    Hire BEERNEKO in an hour for today or only for a week!
+    BEERNEKO is a Web Designer / ZEND Certified PHP Engineer / Microsoft Certified Solutions Associate(MCSA) 
+    for everyone and every business who needs a little help in the Dark... Dark... IT field... 
+    It starts at a reasonable price of $50/hour!
 main:
-  heading: Great coffee with no compromises
-  description: >
+  heading: >-
+  description: >-
     We hold our coffee to the highest standards from the shrub to the cup.
     That’s why we’re meticulous and transparent about each step of the coffee’s
     journey. We personally visit each farm to make sure the conditions are
