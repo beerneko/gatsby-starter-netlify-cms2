@@ -2,6 +2,8 @@ import React from 'react'
 import { Link } from 'gatsby'
 
 import logo from '../img/logo.svg'
+import mcsa from '../img/MCSA.svg'
+import zce from '../img/zce.svg'
 import facebook from '../img/social/facebook.svg'
 import instagram from '../img/social/instagram.svg'
 import twitter from '../img/social/twitter.svg'
@@ -69,6 +71,21 @@ const Footer = class extends React.Component {
                       <Link className="navbar-item" to="/contact">
                         Contact
                       </Link>
+                    </li>
+                    <li>
+                      <Link className="navbar-item" to="/contact">
+                        Certifications
+                      </Link>
+                      <img
+                      src={mcsa}
+                      alt="MCSA"
+                      style={{ width: '5em', height: '5em', margin: '1em'}}
+                      />
+                      <img
+                      src={zce}
+                      alt="zce"
+                      style={{ width: '5em', height: '5em', margin: '1em'}}
+                      />
                     </li>
                   </ul>
                 </section>
