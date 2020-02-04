@@ -82,11 +82,11 @@ const Navbar = class extends React.Component {
                 href="https://github.com/netlify-templates/gatsby-starter-netlify-cms"
                 target="_blank"
                 rel="noopener noreferrer"
-              > */}
+              > 
                 <span className="icon">
                   <img src={github} alt="Github" />
                 </span>
-              {/* </a> */}
+               </a> */}
             </div>
           </div>
         </div>

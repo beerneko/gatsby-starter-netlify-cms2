@@ -2,15 +2,15 @@
 templateKey: index-page
 title: Hire BEER NEKO...
 image: /img/top_worker.jpg
-heading: Those are the ones what BEER NEKO can do
+heading: What can BEER NEKO do?
 subheading: ・Computer Tech ・Programmer ・Instructor ・Japanese Teacher
 mainpitch:
   title: Why BEERNEKO
   description: >
-    Hire BEERNEKO in an hour for today or tempo-worker or remote for a week!
-    BEERNEKO is a Web Designer / ZEND Certified PHP Engineer / Microsoft Certified Solutions Associate(MCSA) for everyone and every business who needs a little help in the Dark... Dark... IT field... It starts at a reasonable price of $50/hour! 
+    Hire BEERNEKO! Even just hourly or remotely as long as she is available!
+    BEERNEKO is a Software Engineer / Web Designer / ZEND Certified PHP Engineer / Microsoft Certified Solutions Associate(MCSA) for everyone and every business who needs a little help in the Dark... Dark... IT field... It starts at a reasonable price of $50/hour! 
 description: >-
-  Currently, BEERNEKO is looking for any job opportunity. BEERNEKO was a former state IT worker, a Japanese School teacher and a freelance Word press web designer, and an e-Commerce coder and the site owner.
+  Currently, BEERNEKO is looking for any job opportunity. BEERNEKO was a former state IT worker, a Japanese School teacher and a freelance IT Tech, a web designer, and a coder.
   If you want a one-page Website for your baseball team, ask BEERNEKO. BEERNEKO will make it starts from $100. If you are a business owner and need a temp IT person, please ask BEERNEKO who can right fit in!
 intro:
   blurbs:
