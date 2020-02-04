@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: A beginners’ guide to brewing with Gatsby CMS. All free sets! ...In Japanese
-date: 2017-01-04T15:04:10.000Z
+date: 2019-02-05T15:04:00.000Z
 description: Introduce to Japanese people about Gatsby CMS by no cost.
 featuredpost: false
 featuredimage: /img/chemex.jpg
