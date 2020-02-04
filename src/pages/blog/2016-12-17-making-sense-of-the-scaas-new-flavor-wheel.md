@@ -1,10 +1,17 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
+title: Is the "MCSA SQL Server 2016 Database Development" hard exam?
 date: 2016-12-17T15:04:10.000Z
+description: >-
+  Yes, it is. Harder than Zend Certified PHP Engineer. 
+
+  There are two tests that you need to accomplish, 761 and 762.
+
+
+  This certification demonstrates your skills as a database professional, for
+  both on-premises and cloud-based databases
 featuredpost: false
 featuredimage: /img/flavor_wheel.jpg
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
 tags:
   - flavor
   - tasting
@@ -15,19 +22,52 @@ The SCAA updated the wheel to reflect the finer nuances needed to describe flavo
 
 While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
 
-## What the updates mean to you
+## Microsoft SQL Server database certifications
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+SQL Server offers a broad range of tools and add-ons for business intelligence, data warehousing and data-driven applications of all kinds. That probably explains why Microsoft offers database-related credentials at every level of its certification program. 
 
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
+Microsoft has taken significant steps over the last year to change its certification program from technology-focused to role-centric, centered on the skills one needs to be successful in specific technology jobs. With these changes in mind, Microsoft now identifies four job tracks in its certification program: Developers, Administrators, Solution Architects and Functional Consultants. You will find a wide variety of skills and technologies within each of those categories, but we'll concentrate below on the company's SQL Server certifications.
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
+MTA: Database Fundamentals
 
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
+The MTA program includes a single database-related exam: Database Fundamentals (98-364). This credential is ideal for students or as an entry-level cert for professionals looking to segue into database support.
 
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+MCSA
+
+Microsoft offers several SQL-related credentials at the Microsoft Certified Solutions Associate (MCSA) level:
+
+MCSA: SQL Server 2012/2014 (three exams)
+
+MCSA: BI Reporting (two exams)
+
+MCSA: SQL 2016 BI Development (two exams)
+
+MCSA: SQL 2016 Database Administration (two exams)
+
+MCSA: SQL 2016 Database Development (two exams)
+
+MCSE
+
+There is one SQL database credential at the Microsoft Certified Solutions Expert level: Data Management and Analytics. This certification has the MCSA as a prerequisite (a list of valid items follows in the table) and then requires passing one elective exam.
+
+## MCSE: Data Management and Analytics: One exam (from the following)
+
+Developing Microsoft SQL Server Databases (70-464)
+
+Designing Database Solutions for Microsoft SQL Server (70-465)
+
+Implementing Data Models and Reports with Microsoft SQL Server (70-466)
+
+Designing Business Intelligence Solutions with Microsoft SQL Server (70-467)
+
+Developing SQL Databases (70-762)
+
+Implementing a Data Warehouse Using SQL (70-767)
+
+Developing SQL Data Models (70-768)
+
+Analyzing Big Data with Microsoft R (70-773)
+
+Implementing Microsoft Azure Cosmos DB Solutions (70-777) 
+
+URL: [www.microsoft.com/learning/en-us/certification-overview.aspx](www.microsoft.com/learning/en-us/certification-overview.aspx)
