@@ -2,9 +2,9 @@ var proxy = require('http-proxy-middleware')
 
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby + Netlify CMS Starter',
+    title: 'BEERNEKO',
     description:
-      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+      'System Engineer in AS/400, PHP, Java, Javascript at both the USA and Japan. Recently becoming certified MCSA in Microsoft SQL 2016 Database Development.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
