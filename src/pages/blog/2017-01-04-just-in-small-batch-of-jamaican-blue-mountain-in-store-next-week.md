@@ -31,12 +31,10 @@ Sorry if you have hard time understanding my words. But it's a good measurement 
 
 Because the human brain is not so trustworthy.
 
-You probably feel right when you finished learning and comprehending. However, that is the moment of the time your memory just started going downhill. 
+You probably feel right when you finished learning and comprehending. However, that is the moment of the time your memory just started going downhill. 
 
-I have a lot of confidence in my knowledge of computer software development since 1999. Those are the knowledge that I put in my whole passion and efforts over the years and years. Also, I used to so good at the runtime debugging the existing old RPG codes, but it not anymore. 
+I have a lot of confidence in my knowledge of computer software development since 1999. Those are the knowledge that I put in my whole passion and efforts over the years and years. Also, I used to so good at the runtime debugging the existing old RPG codes, but it not anymore. Why? Because I don't use AS400 for more than 2 years and probably legacy AS400 RPG is not a hot topic in the current computer world any more neither. And guess what, I'm still getting AS400 job interview offers from the outside of the Texas state where I live! They are expecting me to relocate for the position! (I could have done that if I'm single and don't have kids...)
 
-Why? Because I don't use AS400 for more than 2 years and probably legacy AS400 RPG is not a hot topic in the current computer world any more neither.
+To me, experiences that I can list up in my resume should be the ones that I can still bring a memory back without requiring time and expensive overlapped training.
 
-To me, experiences that I can list up in my resume should be the ones that I can still bring a memory back without requiring time and expensive overlapped training.
-
-So I decided to keep learning and recording what I learn before forget them!
+So I decided to keep learning and recording what I learn before forget them!
