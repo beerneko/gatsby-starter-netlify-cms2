@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'For my personal study note of C# '
-date: 2017-01-04T15:04:10.000Z
+date: 2019-02-04T15:04:00.000Z
 description: >-
   This is my first C# study note. I always try to record my learning work so
   that I can review later and share it with my friends.
