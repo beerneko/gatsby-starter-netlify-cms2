@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Is the "MCSA SQL Server 2016 Database Development" hard exam?
-date: 2016-12-17T15:04:10.000Z
+date: 2020-02-04T15:04:00.000Z
 description: >-
   Yes, it is. Harder than Zend Certified PHP Engineer. 
 
