@@ -26,17 +26,17 @@ While this is going to be a big change for professional coffee tasters, it means
 
 SQL Server offers a broad range of tools and add-ons for business intelligence, data warehousing and data-driven applications of all kinds. That probably explains why Microsoft offers database-related credentials at every level of its certification program. 
 
-Microsoft has taken significant steps over the last year to change its certification program from technology-focused to role-centric, centered on the skills one needs to be successful in specific technology jobs. With these changes in mind, Microsoft now identifies four job tracks in its certification program: Developers, Administrators, Solution Architects and Functional Consultants. You will find a wide variety of skills and technologies within each of those categories, but we'll concentrate below on the company's SQL Server certifications.
+Microsoft has taken significant steps over the last year to change its certification program from technology-focused to role-centric, centered on the skills one needs to be successful in specific technology jobs. With these changes in mind, Microsoft now identifies four job tracks in its certification program: Developers, Administrators, Solution Architects and Functional Consultants. You will find a wide variety of skills and technologies within each of those categories, but we'll concentrate below on the company's SQL Server certifications.
 
-MTA: Database Fundamentals
+MTA: Database Fundamentals
 
 The MTA program includes a single database-related exam: Database Fundamentals (98-364). This credential is ideal for students or as an entry-level cert for professionals looking to segue into database support.
 
-MCSA
+MCSA
 
 Microsoft offers several SQL-related credentials at the Microsoft Certified Solutions Associate (MCSA) level:
 
-MCSA: SQL Server 2012/2014 (three exams)
+MCSA: SQL Server 2012/2014 (three exams)
 
 MCSA: BI Reporting (two exams)
 
@@ -52,7 +52,7 @@ There is one SQL database credential at the Microsoft Certified Solutions Expert
 
 ## MCSE: Data Management and Analytics: One exam (from the following)
 
-Developing Microsoft SQL Server Databases (70-464)
+Developing Microsoft SQL Server Databases (70-464)
 
 Designing Database Solutions for Microsoft SQL Server (70-465)
 
@@ -70,4 +70,7 @@ Analyzing Big Data with Microsoft R (70-773)
 
 Implementing Microsoft Azure Cosmos DB Solutions (70-777) 
 
-URL: [www.microsoft.com/learning/en-us/certification-overview.aspx](www.microsoft.com/learning/en-us/certification-overview.aspx)
+URL
+: [www.microsoft.com/learning/en-us/certification-overview.aspx](www.microsoft.com/learning/en-us/certification-overview.aspx)
+
+Referenced from [Business News Daily](https://www.businessnewsdaily.com/10734-database-certifications.html) Updated: January 28, 2020
