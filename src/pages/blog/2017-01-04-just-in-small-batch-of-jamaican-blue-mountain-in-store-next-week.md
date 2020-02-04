@@ -1,34 +1,42 @@
 ---
-templateKey: 'blog-post'
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
+templateKey: blog-post
+title: 'For my personal study note of C# '
 date: 2017-01-04T15:04:10.000Z
-featuredpost: true
 description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
+  This is my first C# study note. I always try to record my learning work so
+  that I can review later and share it with my friends.
+featuredpost: true
+featuredimage: /img/leaning1.png
 tags:
   - jamaica
   - green beans
   - flavor
   - tasting
 ---
+## My First C# (Console) Personal Note in English
 
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
+[My First C# (Console) Personal Note 1](https://www.youtube.com/watch?time_continue=526&v=Go_8fZgjfTw&feature=emb_logo)
 
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
+[My First C# (Console) Personal Note 2](https://www.youtube.com/watch?time_continue=3&v=SJekyv7Nb7M&feature=emb_logo)
 
-## A little history
+[My First C# (Console) Personal Note 3](https://www.youtube.com/watch?v=yeNwFvW0LJY&feature=emb_logo)
 
-The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
+[My First C# (Console) Personal Note 4](https://www.youtube.com/watch?v=2SJtb94aqCA&feature=emb_logo)
 
->Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
+[My First C# (Console) Personal Note 5](https://www.youtube.com/watch?v=-jdmcVAKOsQ&feature=emb_logo)
 
-This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
+Sorry if you have hard time understanding my words. But it's a good measurement for you to judge my English skills!
 
-## What you need to know before trying
+## Why is that so important to record what you learn?
 
-Jamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classification of coffee grown in the Blue Mountains of Jamaica. The best lots of Blue Mountain coffee are noted for their mild flavor and lack of bitterness. Over the past few decades, this coffee has developed a reputation that has made it one of the most expensive and sought-after coffees in the world. Over 80% of all Jamaican Blue Mountain Coffee is exported to Japan. In addition to its use for brewed coffee, the beans are the flavor base of Tia Maria coffee liqueur.
+Because the human brain is not so trustworthy.
 
-Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
+You probably feel right when you finished learning and comprehending. However, that is the moment of the time your memory just started going downhill. 
 
-The Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.
+I have a lot of confidence in my knowledge of computer software development since 1999. Those are the knowledge that I put in my whole passion and efforts over the years and years. Also, I used to so good at the runtime debugging the existing old RPG codes, but it not anymore. 
+
+Why? Because I don't use AS400 for more than 2 years and probably legacy AS400 RPG is not a hot topic in the current computer world any more neither.
+
+To me, experiences that I can list up in my resume should be the ones that I can still bring a memory back without requiring time and expensive overlapped training.
+
+So I decided to keep learning and recording what I learn before forget them!
