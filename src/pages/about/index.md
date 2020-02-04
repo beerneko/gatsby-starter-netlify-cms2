@@ -1,14 +1,16 @@
 ---
-templateKey: 'about-page'
-path: /about
+templateKey: about-page
 title: About Beerneko values
 ---
 ### Beerneko is a hard worker!
+
 System Engineer in AS/400, PHP, Java, Javascript at both the USA and Japan. Recently becoming certified MCSA in Microsoft SQL 2016 Database Development.
 
 I have over 7 years of working experience at the Nebraska State Government includes Nebraska Supreme court, and have more independent contracts in Google Apps Script, Visual Basic, WordPress, and other various computer languages in the past 17 years.
 
 As a personal note, in 2019, I needed to go back and forth between the United State and Japan to act as a caregiver to a sick family member in Japan. During that time, I really found my passion for studying new technologies and working as a freelance, which is why I'm so excited about reopening my new IT carrier. 
+
+![](/img/products-grid2.jpg)
 
 ### Testimonials
 
