@@ -1,12 +1,22 @@
 ---
 templateKey: 'about-page'
 path: /about
-title: About our values
+title: About Beerneko values
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### Beerneko is a hard worker!
+System Engineer in AS/400, PHP, Java, Javascript at both the USA and Japan. Recently becoming certified MCSA in Microsoft SQL 2016 Database Development.
 
-### Single origin
+I have over 7 years of working experience at the Nebraska State Government includes Nebraska Supreme court, and have more independent contracts in Google Apps Script, Visual Basic, WordPress, and other various computer languages in the past 17 years.
+
+As a personal note, in 2019, I needed to go back and forth between the United State and Japan to act as a caregiver to a sick family member in Japan. During that time, I really found my passion for studying new technologies and working as a freelance, which is why I'm so excited about reopening my new IT carrier. 
+
+### Testimonials
+
+"I appreciated Beerneko developing the Web Authentication System with LDAP for Administrative Data of NDEQ Permitted Facilities. It helped me immensely in my work with our permitted facilities." - Joann Principato
+
+"Beerneko is an extremely proficient programmer, with a fierce dedication and an extremely well-developed attention to detail. Beerneko is eager to produce the best possible product and is flexible and a pleasure to work with. I highly recommend Yuriko for any system application development position." - Jim Bunstock
+
+<!-- ### Single origin
 Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
 
 ### Sustainable farming
@@ -16,4 +26,4 @@ Sustainable agriculture is farming in sustainable ways based on an understanding
 Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
 
 ### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog. -->
