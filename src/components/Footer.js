@@ -53,7 +53,7 @@ const Footer = class extends React.Component {
                         target="_blank"
                         rel="noopener noreferrer"
                       >
-                        Admin
+                        Beerneko Potal
                       </a>
                     </li>
                   </ul>
@@ -62,34 +62,36 @@ const Footer = class extends React.Component {
               <div className="column is-4">
                 <section>
                   <ul className="menu-list">
-                    {/* <li>
+                    <li>
                       <Link className="navbar-item" to="/blog">
                         Latest Stories
                       </Link>
-                    </li> */}
+                    </li>
                     <li>
                       <Link className="navbar-item" to="/contact">
                         Contact
                       </Link>
                     </li>
                     <li>
-                      <Link className="navbar-item" to="/">
+                      <Link className="navbar-item" to="/about">
                         Certifications
                       </Link>
+                    </li>
+                  </ul>
+                  </section>
+                  <a href="https://www.microsoft.com/en-us/learning/mcsa-sql2016-database-development-certification.aspx" target="_blank">
                       <img
                       src={mcsa}
                       alt="MCSA"
-                      style={{ width: '5em', height: '5em', margin: '1em'}}
-                      />
+                      style={{ width: '4em', height: '4em', margin: '0.1em'}}
+                      /></a>
+                    <a href="https://www.zend-zce.com/en/yellow-pages/ZEND028919" target="_blank">
                       <img
                       src={zce}
                       alt="zce"
-                      style={{ width: '5em', height: '5em', margin: '1em'}}
-                      />
-                    </li>
-                  </ul>
-                </section>
-              </div>
+                      style={{ width: '4em', height: '4em', margin: '0.1em'}}
+                      /></a>
+                  </div>
               <div className="column is-4 social">
                 <a title="facebook" href="https://facebook.com">
                   <img
