@@ -8,7 +8,7 @@ mainpitch:
   title: Why BEERNEKO
   description: >
     Hire BEERNEKO! Even just hourly or remotely as long as she is available!
-    BEERNEKO is a Software Engineer / Web Designer / ZEND Certified PHP Engineer / Microsoft Certified Solutions Associate(MCSA) for everyone and every business who needs a little help in the Dark... Dark... IT field... It starts at a reasonable price of $50/hour! 
+    BEERNEKO is a Software Engineer / Web Designer / ZEND Certified PHP Engineer / Microsoft Certified Solutions Associate(MCSA) for everyone and every business who needs a little help in the Dark... Dark... IT field...     
 description: >-
   Currently, BEERNEKO is looking for any job opportunity. BEERNEKO was a former state IT worker, a Japanese School teacher and a freelance IT Tech, a web designer, and a coder.
   If you want a one-page Website for your baseball team, ask BEERNEKO. BEERNEKO will make it starts from $100. If you are a business owner and need a temp IT person, please ask BEERNEKO who can right fit in!

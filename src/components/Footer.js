@@ -79,13 +79,13 @@ const Footer = class extends React.Component {
                     </li>
                   </ul>
                   </section>
-                  <a href="https://www.microsoft.com/en-us/learning/mcsa-sql2016-database-development-certification.aspx" target="_blank">
+                  <a href="https://www.microsoft.com/en-us/learning/mcsa-sql2016-database-development-certification.aspx" target="_blank" rel="noopener noreferrer">
                       <img
                       src={mcsa}
                       alt="MCSA"
                       style={{ width: '4em', height: '4em', margin: '0.1em'}}
                       /></a>
-                    <a href="https://www.zend-zce.com/en/yellow-pages/ZEND028919" target="_blank">
+                    <a href="https://www.zend-zce.com/en/yellow-pages/ZEND028919" target="_blank" rel="noopener noreferrer">
                       <img
                       src={zce}
                       alt="zce"

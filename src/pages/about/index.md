@@ -17,7 +17,6 @@ As a personal note, in 2019, I needed to go back and forth between the United St
 "Beerneko is an extremely proficient programmer, with a fierce dedication and an extremely well-developed attention to detail. Beerneko is eager to produce the best possible product and is flexible and a pleasure to work with. I highly recommend Yuriko for any system application development position." - Jim Bunstock
 
 ### Certifications
-EDUCATION / CERTIFICATIONS:
 
 MCSA (SQL 2016 Database Development)	MCID: 989364484	January 2020
 
