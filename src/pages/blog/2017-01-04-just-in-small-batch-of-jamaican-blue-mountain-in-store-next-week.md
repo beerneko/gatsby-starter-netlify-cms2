@@ -8,10 +8,8 @@ description: >-
 featuredpost: true
 featuredimage: /img/leaning1.png
 tags:
-  - jamaica
-  - green beans
-  - flavor
-  - tasting
+  - 'c#'
+  - OOP
 ---
 ## My First C# (Console) Personal Note in English
 
