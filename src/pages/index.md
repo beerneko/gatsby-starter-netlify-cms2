@@ -1,13 +1,13 @@
 ---
 templateKey: index-page
-title: Hire BEER NEKO...
+title: BEER NEKO
 image: /img/top_worker.jpg
 heading: What can BEER NEKO do?
 subheading: ・Computer Tech ・Programmer ・Instructor ・Japanese Teacher
 mainpitch:
   title: Why BEERNEKO
   description: >
-    Hire BEERNEKO! Even just hourly or remotely as long as she is available!
+    BEERNEKO can help you! Even just hourly or remotely as long as she is available!
     BEERNEKO is a Software Engineer / Web Designer / ZEND Certified PHP Engineer / Microsoft Certified Solutions Associate(MCSA) for everyone and every business who needs a little help in the Dark... Dark... IT field...     
 description: >-
   Currently, BEERNEKO is looking for any job opportunity. BEERNEKO was a former state IT worker, a Japanese School teacher and a freelance IT Tech, a web designer, and a coder.
