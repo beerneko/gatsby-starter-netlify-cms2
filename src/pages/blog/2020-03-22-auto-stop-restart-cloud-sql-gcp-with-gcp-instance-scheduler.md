@@ -55,8 +55,7 @@ Prerequisites Tools and APIs
 
 
 ```
-Please enter numeric choice or text value (must exactly match list
-item):プロジェクト名の番号を入力
+Please enter numeric choice or text value (must exactly match list item):プロジェクト名の番号を入力
 ```
 
 6. すべてのコンポーネントを更新
