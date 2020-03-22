@@ -78,9 +78,17 @@ gcloud config set project triptokitsukiapi
 
 ```
 //ProJetIDの確認：#triptokitsukiapigcloud projects list
+```
+
+```
 //インスタンス名の確認：#triptokitsuki-mysqlgcloud sql databases list -i=triptokitsuki-mysql
+```
+
+```
 //インスタンスの詳細確認gcloud sql instances describe triptokitsuki-mysql
 ```
+
+## 
 
 ## Setting Cloud Scheduler
 
@@ -96,7 +104,14 @@ Key:"state-scheduler", value:"true"
 
 ```
 //ダウンロードgit clone https://github.com/future-architect/gcp-instance-scheduler.git
-//ディレクトリを移動cd gcp-instance-scheduler//ファンクションの作成＃SLACKは使いませんgcloud functions deploy switchInstanceState --project triptokitsukiapi --entry-point SwitchInstanceState --runtime go111 --trigger-topic instance-scheduler-event --set-env-vars SLACK_ENABLE=false
+```
+
+```
+//ディレクトリを移動cd gcp-instance-scheduler
+```
+
+```
+//ファンクションの作成＃SLACKは使いませんgcloud functions deploy switchInstanceState --project triptokitsukiapi --entry-point SwitchInstanceState --runtime go111 --trigger-topic instance-scheduler-event --set-env-vars SLACK_ENABLE=false
 ```
 
 ```
