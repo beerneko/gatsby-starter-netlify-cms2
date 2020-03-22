@@ -53,39 +53,27 @@ Prerequisites Tools and APIs
 4. ログインを許可する
 5. GoogleAuthで許可したのち、自動的にブラウザが開き、認証完了のメッセージが確認できる。
 
-
-```
-Please enter numeric choice or text value (must exactly match list item):プロジェクト名の番号を入力
-```
+Please enter numeric choice or text value \
+(must exactly match list item):プロジェクト名の番号を入力
 
 6. すべてのコンポーネントを更新
 
-
-```
 gcloud components update
-```
 
 7. 選択したプロジェクトを使用するように gcloud を構成
 
-
-```
 gcloud config set project triptokitsukiapi
-```
 
 8. CLIから名前リスト詳細などの確認
 
+//ProJetIDの確認：#triptokitsukiapi\
+gcloud projects list
 
-```
-//ProJetIDの確認：#triptokitsukiapigcloud projects list
-```
+//インスタンス名の確認：#triptokitsuki-mysql\
+gcloud sql databases list -i=triptokitsuki-mysql
 
-```
-//インスタンス名の確認：#triptokitsuki-mysqlgcloud sql databases list -i=triptokitsuki-mysql
-```
-
-```
-//インスタンスの詳細確認gcloud sql instances describe triptokitsuki-mysql
-```
+//インスタンスの詳細確認\
+gcloud sql instances describe triptokitsuki-mysql
 
 ## 
 
@@ -93,33 +81,25 @@ gcloud config set project triptokitsukiapi
 
 9. Cloud SQLにPanel>Labelからラベルを設定
 
-
-```
 Key:"state-scheduler", value:"true"
-```
 
 10. ファンクションの作成
 
+//ダウンロード\
+git clone https://github.com/future-architect/gcp-instance-scheduler.git
 
-```
-//ダウンロードgit clone https://github.com/future-architect/gcp-instance-scheduler.git
-```
+//ディレクトリを移動\
+cd gcp-instance-scheduler
 
-```
-//ディレクトリを移動cd gcp-instance-scheduler
-```
+//ファンクションの作成＃SLACKは使いません\
+gcloud functions deploy switchInstanceState --project triptokitsukiapi --entry-point SwitchInstanceState --runtime go111 --trigger-topic instance-scheduler-event --set-env-vars SLACK_ENABLE=false
 
-```
-//ファンクションの作成＃SLACKは使いませんgcloud functions deploy switchInstanceState --project triptokitsukiapi --entry-point SwitchInstanceState --runtime go111 --trigger-topic instance-scheduler-event --set-env-vars SLACK_ENABLE=false
-```
-
-```
-//スケジュールの作成＃ローカルタイム、スケジュールタイム等はコンソールスクリーンで変更できるgcloud beta scheduler jobs create pubsub shutdown-workday --project triptokitsukiapi --schedule "0 11 * * *" --topic instance-scheduler-event --message-body '{"command":"stop"}' --time-zone "America/Chicago" --description "Yuris testing for AUCENT"
-```
+//スケジュールの作成＃ローカルタイム、スケジュールタイム等はコンソールスクリーンで変更できる\
+gcloud beta scheduler jobs create pubsub shutdown-workday --project triptokitsukiapi --schedule "0 11 \* \* *" --topic instance-scheduler-event --message-body '{"command":"stop"}' --time-zone "America/Chicago" --description "Yuris testing for AUCENT"
 
 11. 確認作業
 
-ファンクション
+> ファンクション
 
 \* クラウドファンクションから確認
 
@@ -129,11 +109,7 @@ Key:"state-scheduler", value:"true"
 
 \* コンバーターなどを使ってBase64にしたパラメータを以下のように設定
 
-\`\``
-
 // {"command":"stop"}　➔　eyJjb21tYW5kIjoic3RvcCJ9{"data":"eyJjb21tYW5kIjoic3RvcCJ9"}
-
-\`\``
 
 \* Cloud SQL スクリーンへ正しくインスタンスが終了されているか確認
 
@@ -141,11 +117,11 @@ Key:"state-scheduler", value:"true"
 
 \*コンバーター　https://www.base64encode.org/
 
- Pub/Sub
+>  Pub/Sub
 
 \* PubSub>Topicにinstance-scheduler-eventがあることを確認
 
-  Cloud Scheduler
+>   Cloud Scheduler
 
 shutdown-workdayが設定されている確認
 
