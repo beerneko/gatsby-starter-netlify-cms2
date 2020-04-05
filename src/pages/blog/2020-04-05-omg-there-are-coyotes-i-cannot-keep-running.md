@@ -6,7 +6,7 @@ description: >-
   I spotted a coyote family while I was running. Then my neighbor guy showed up
   and he told me that he shoo them off for me. 
 featuredpost: true
-featuredimage: /img/og-image.jpg
+featuredimage: /img/beercat1.jpg
 tags:
   - '#coyote'
 ---
