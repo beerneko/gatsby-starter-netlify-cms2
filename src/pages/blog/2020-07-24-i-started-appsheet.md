@@ -37,25 +37,24 @@ I set the price starts with only $10 / user/month so it's a really reliable and 
 
 \- barcode reader app
 
+
+
 <iframe width="560" height="515" src="https://www.youtube.com/embed/ybLglj2t4nk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## Why do you want to work with me?
 
 Your business doesn't need to spend money to hire a big computer company only for making a small system. I can provide you a way that is most fit for you without any complications.
 
-
-
 ## I will provide you with the following
 
-Original System Design
+Original System Design
 
 System Database Design
 
 1 System Demo (Google Hangouts, Zoom, or Skype)
 
 7 Days Testing Term (Error Fix / 1 Additional Revision)
-
-
 
 ## How much cost to start?
 
@@ -64,8 +63,6 @@ Startup configuration fee $100 (One time only)
 1 Active user / $10 / month
 
 ($2 / month after your data reaches more than 1GB)
-
-
 
 ## Policy
 
@@ -83,32 +80,21 @@ When you need to cancel the app use, please contact me, otherwise, your payment 
 
 When your payment is skipped for a month, I need to stop your app without asking you.
 
-
-
 ## Samples
 
 I create apps like;
 
-
-
 Sample 1, Track the attendance of students or employees with this customizable app. 
-
-
 
 Sample 2, For Lawn company, use this app to share visited home lawn information with site technician. The app lets you show different listings on a map and also show information of pictures for each visited property. The list view shows the listings grouped by a certain category. You can change the grouping category to match your business needs such as visited potential customers.
 
-
-
 Sample 3, For Cleaning Company, use this app to getting customer's signature to approve the completed order at the site location and be able to immediately share it with the office. Also, this app automatically emails you as soon as completing its process.
 
-
-
 Beerneko
-
-
 
 Web: <https://nekonya.netlify.app/>
 
 Github: <https://github.com/beerneko>
 
-Web App: [https://oboero3.azurewebsites.net/](https://oboero3.azurewebsites.net/)
+Web App: [https://oboero3.azurewebsites.net/
+](https://oboero3.azurewebsites.net/)
