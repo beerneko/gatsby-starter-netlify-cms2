@@ -17,9 +17,9 @@ tags:
     Design # computer consulte # app # DFW app # Delivery Receipt app # Home
     Inspection app # Stock Inventory # Event Calendar # barcode reader
 ---
-<https://nekonya.netlify.app/contact>
+[Get estimate](https://nekonya.netlify.app/contact)
 
-# It's greate for your small business
+# It's great for your small business
 
 ![](/img/fiverr.png)
 
@@ -37,10 +37,7 @@ I set the price starts with only $10 / user/month so it's a really reliable and 
 
 \- barcode reader app
 
-
-
 <iframe width="560" height="515" src="https://www.youtube.com/embed/ybLglj2t4nk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 ## Why do you want to work with me?
 
