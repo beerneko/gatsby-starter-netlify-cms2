@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'Yay! New Stained Store is now open! - https://beerneko.com'
+title: 'Yay! New Stained Glass Store is now open! - https://beerneko.com'
 date: 2021-01-22T16:48:53.292Z
 description: >
   My new business just has begun. I'm still a pretty much struggling learner,
